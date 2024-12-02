@@ -1,0 +1,124 @@
+import * as React from "react"
+import Svg, { G, Rect } from "react-native-svg"
+/* SVGR has dropped some elements not supported by react-native-svg: title */
+export default function QRHealth (props) {
+    return(
+    <Svg xmlns="http://www.w3.org/2000/svg" width={136} height={134} {...props}>
+        <G className="layer">
+        <Rect
+            width={50}
+            height={50}
+            x={3}
+            y={3.5}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={5}
+            ry={5}
+        />
+        <Rect
+            width={50}
+            height={50}
+            x={83}
+            y={2.5}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={5}
+            ry={5}
+        />
+        <Rect
+            width={50}
+            height={50}
+            x={3}
+            y={80.5}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={5}
+            ry={5}
+        />
+        <Rect
+            width={50}
+            height={50}
+            x={83}
+            y={80.5}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={5}
+            ry={5}
+        />
+        <Rect
+            width={1}
+            height={63}
+            x={67}
+            y={3.5}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={1}
+            ry={1}
+        />
+        <Rect
+            width={1}
+            height={83}
+            x={325.5}
+            y={481.5}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={1}
+            ry={1}
+            transform="rotate(90 415 156)"
+        />
+        <Rect
+            width={1}
+            height={19}
+            x={324.5}
+            y={444}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={1}
+            ry={1}
+            transform="rotate(90 415 156)"
+        />
+        <Rect
+            width={1}
+            height={43}
+            x={67}
+            y={86.5}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={1}
+            ry={1}
+        />
+        <Rect
+            width={4}
+            height={49}
+            x={26}
+            y={82}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={1}
+            ry={1}
+        />
+        <Rect
+            width={4}
+            height={49}
+            x={25}
+            y={81.5}
+            fill="none"
+            stroke="#fff"
+            strokeWidth={5}
+            rx={1}
+            ry={1}
+            transform="rotate(90 27 106)"
+        />
+        </G>
+    </Svg>
+);
+}

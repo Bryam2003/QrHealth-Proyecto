@@ -4,25 +4,40 @@
     "slug": "QrHealth",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.Bryan.QRHEALTH"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/images/icon.png"
+    },
+    "plugins": [
+      "expo-build-properties",
+      "expo-router"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e301664c-21a5-422b-918d-3c8bdba7e64e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e301664c-21a5-422b-918d-3c8bdba7e64e"
     }
   }
 }

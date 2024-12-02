@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="326.72247"
+   height="136.02832"
+   viewBox="0 0 86.44532 35.990826"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="86.44532"
+       height="35.990826"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,49.317359,0,1 @ F,0,0,1,0,49.646474,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,20.186257,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,27.094033,0,1 @ F,0,0,1,0,13.74141,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3-4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <path
+     style="fill:#7282f3;fill-opacity:1;stroke-width:0.253111"
+     id="rect2"
+     width="85"
+     height="30"
+     x="97"
+     y="160"
+     inkscape:path-effect="#path-effect4"
+     sodipodi:type="rect"
+     d="M 146.31736,160 A 32.964002,32.964002 40.055275 0 1 182,190 H 117.18626 A 20.186257,20.186257 45 0 1 97,169.81374 35.556374,35.556374 168.74563 0 1 146.31736,160 Z"
+     inkscape:export-filename="bottom.svg"
+     inkscape:export-xdpi="9.9799995"
+     inkscape:export-ydpi="9.9799995"
+     transform="translate(-95.561219,-154.00917)" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-95.561219,-154.00917)">
+    <path
+       style="opacity:0.8;fill:#3d34cb;fill-opacity:1;stroke-width:0.165041"
+       id="rect1"
+       width="40"
+       height="30"
+       x="142"
+       y="160"
+       inkscape:path-effect="#path-effect3"
+       sodipodi:type="rect"
+       d="M 169.09403,160 A 13.330235,13.330235 46.795737 0 1 182,173.74141 V 190 h -40 v -2.90597 A 27.094033,27.094033 135 0 1 169.09403,160 Z"
+       ry="0" />
+    <path
+       style="opacity:0.8;fill:#3d34cb;fill-opacity:1;stroke-width:0.165041"
+       id="rect1-8"
+       width="40"
+       height="30"
+       x="142"
+       y="160"
+       inkscape:path-effect="#path-effect3-4"
+       sodipodi:type="rect"
+       d="m 142,160 h 10 a 30,30 45 0 1 30,30 h -40 z"
+       ry="0"
+       transform="translate(-46.438777)" />
+  </g>
+</svg>
